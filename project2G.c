@@ -18,7 +18,6 @@ int main(int argc, char* argv[])
 	if (filePointer == NULL)
 	{
 		printf("Error Opening File");
-		fclose(filePointer);
 		return EXIT_FAILURE;
 	}
 
