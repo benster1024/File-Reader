@@ -2,7 +2,8 @@ Word Search - this code reads an input file then displays the amount of occuranc
 
 Usage:
 compile using gcc -o WordSearch WordSearch.c
-./WordSearch <inputfile> <word> <word> <word>
+
+./WordSearch inputfile word word word
 
 This project demonstrates my basic understanding of the C programming language. It includes fundamental concepts such as:
 
